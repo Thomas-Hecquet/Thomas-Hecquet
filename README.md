@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Thomas-Hecquet
+- 👀 I’m interested in CiviCRM and social marketing tools for NGOs
+- 🌱 I’m currently learning Tableau and R
+- 💞️ I’m looking to collaborate on developping open source CRMs
+- 📫 How to reach me: thomas.hecquet@animalsociety.de
